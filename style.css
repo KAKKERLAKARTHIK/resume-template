@@ -256,9 +256,8 @@ margin-top: 20px;
    }
    #projects{
     font-size: .9em;
-    position: relative;
-left: -;
-   }px
+
+   }
    .pro h1{
     margin: 20px!important;
     font-size: 1em;
@@ -276,7 +275,7 @@ margin-left: -60px;
     margin-top: px;
    }
    .my{
-margin-left: -20px;
+margin-left: -50px;
     width: 60px;
     height: 60px;
     margin-top: 50px;
@@ -284,14 +283,14 @@ margin-left: -20px;
    .my1 h1{
     font-size: 1em;
     margin-top: 60px;
-margin-left: -70px;
+margin-left: -90px;
    }
 .p{
-margin-left: -56px!important
+margin-left: -70px!important
    }
    .social1{
 display: flex;
-margin-left: -70px!important;
+margin-left: -90px!important;
 margin-top: 0px!important;
 word-spacing: px!important;
    }
